@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JavaScript Web for Warriors 7th edition!
 - 🌱 I’m currently learning JavaScript
-<!-- 👯 I’m looking to collaborate on ... -->
 - 📫 How to reach me: <a href="mailto:javierballesterwd@gmail.com">javierballesterwd@gmail.com</a>
 <!-- ⚡ Fun fact: ... -->
+<!-- 👯 I’m looking to collaborate on ... -->
 

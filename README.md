@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 <!-- ⚡ Fun fact: ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
 
+[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javirb26)](https://github.com/Javirb26/github-readme-stats)
+

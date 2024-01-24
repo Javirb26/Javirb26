@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a Front end Development Student at YearUp!
-- 🌱 I’m currently learning Refining my JavaScript Skills!
+- 📚 I'm on a learning journey, diving deep into the world of Python! 🐍
 - 📫 How to reach me: <a href="mailto:javierballesterwd@gmail.com">javierballesterwd@gmail.com</a>
 <!-- ⚡ Fun fact: ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
